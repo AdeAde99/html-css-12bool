@@ -11,3 +11,10 @@
 .white {
     color: white;
 }
+
+.white-container {
+    height: 1rem;
+    width: 100%;
+    font-weight: 600;
+    background-color: transparent;
+}
