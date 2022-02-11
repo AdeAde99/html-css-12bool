@@ -1,11 +1,8 @@
 
 [class*=col-] {
     background-color: #006cfa;
-    height: 3rem;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     border: 1px solid white;
+    padding: 1rem;
 }
 
 .white {
@@ -18,3 +15,12 @@
     font-weight: 600;
     background-color: transparent;
 }
+
+.green {
+    background-color: greenyellow;
+}
+
+.nested {
+    padding: 1rem;
+}
+
